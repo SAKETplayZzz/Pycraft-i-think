@@ -1,1 +1,1 @@
-# Pycraft-i-think
+# see the rubix cube project
